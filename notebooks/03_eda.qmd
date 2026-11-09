@@ -1,0 +1,9 @@
+---
+title: "EDA Greatest Hits"
+---
+
+Work through distributions, categorical counts, and group comparisons with your assistant. Compare each result with the matching notebook in `docs/reference/`.
+
+```{r}
+library(tidyverse)
+```
