@@ -5,5 +5,7 @@ title: "Steering With the Grammar of Graphics"
 Make the same figure twice: once by asking for a chart by name, once by describing the grammar (data, aesthetics, geoms, scales, facets, theme). Which prompt gave you more control?
 
 ```{r}
-library(tidyverse)
+library(readr)
+library(dplyr)
+library(ggplot2)
 ```
