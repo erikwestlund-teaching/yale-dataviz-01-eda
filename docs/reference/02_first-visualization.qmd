@@ -225,7 +225,7 @@ Add labels.
 ```{r}
 p4 <- p3 +
   labs(
-    title = "Reported Binge Drinking In The 3 Months Before Birth",
+    title = "Reported Binge Drinking In The 3 Months Before Pregnancy",
     subtitle = "Overall PRAMS state/location estimates",
     x = "Percent reporting binge drinking",
     y = "Number of states/locations"
@@ -485,7 +485,7 @@ Add labels and a theme.
 ```{r}
 p5 <- p4 +
   labs(
-    title = "Alcohol Use And Binge Drinking In The 3 Months Before Birth",
+    title = "Alcohol Use And Binge Drinking In The 3 Months Before Pregnancy",
     subtitle = "Each point is one overall PRAMS state/location estimate",
     x = "Percent reporting any alcohol use",
     y = "Percent reporting binge drinking"
