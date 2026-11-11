@@ -146,7 +146,7 @@ This kind of data preparation is part of visualization. A plot can only answer t
 
 # Plot 1: Distribution
 
-Question: what is the distribution of reported binge drinking in the 3 months before birth?
+Question: what is the distribution of reported binge drinking in the 3 months before pregnancy?
 
 For this first plot, use the overall location estimates. That way each plotted observation represents one state/location, not a subgroup slice.
 
