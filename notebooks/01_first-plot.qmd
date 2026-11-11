@@ -2,7 +2,7 @@
 title: "First Plot"
 ---
 
-Ask your assistant for a first figure from `inputs/raw/prams_2011_selected.csv`. Then critique it: what question does it answer, and is that the right chart for the question?
+Ask your assistant for a first figure from `inputs/raw/prams_2011_selected.csv`. Then critique it. What question does it answer, and is that the right chart for the question?
 
 ```{r}
 library(readr)
